@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/zhap/static/css/main.f855e6bc.css",
+    "main.js": "/zhap/static/js/main.b2dcf944.js",
+    "static/js/488.103417aa.chunk.js": "/zhap/static/js/488.103417aa.chunk.js",
+    "index.html": "/zhap/index.html",
+    "main.f855e6bc.css.map": "/zhap/static/css/main.f855e6bc.css.map",
+    "main.b2dcf944.js.map": "/zhap/static/js/main.b2dcf944.js.map",
+    "488.103417aa.chunk.js.map": "/zhap/static/js/488.103417aa.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.b2dcf944.js"
+  ]
+}
